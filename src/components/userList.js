@@ -30,7 +30,6 @@ const UserList = ({ users, updateUser, deleteUser }) => {
               <TableCell>First Name</TableCell>
               <TableCell>Last Name</TableCell>
               <TableCell>Email</TableCell>
-              <TableCell>Picture</TableCell>
               <TableCell>Actions</TableCell>
             </TableRow>
           </TableHead>
